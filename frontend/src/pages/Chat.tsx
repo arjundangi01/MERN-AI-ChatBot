@@ -5,6 +5,7 @@ import { useAuth } from "../context/AuthContext";
 import ChatItem from "../components/chat/ChatItem";
 import { IoMdSend } from "react-icons/io";
 import { useNavigate } from "react-router-dom";
+// ---
 import {
   deleteUserChats,
   getUserChats,
